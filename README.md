@@ -2,7 +2,7 @@
 Sample configurations to get Marlin Firmware up and running fast on Kossel 3D printers using Ramps electronics. These instructions should get you started for ANY delta 3D printer! 
 
 TL;DR
-Download the latest marlin firmware release here https://github.com/MarlinFirmware/Marlin download my samples, rename the one you want to Configuration.h and overwrite the Configuration.h in the marlin firmware, edit with your settings as needed, enjoy! 
+Download the latest marlin firmware release here https://github.com/MarlinFirmware/Marlin , look in the marlin samples and drag in the files closest to your configuration, download my samples, rename the one you want to Configuration.h and overwrite the Configuration.h in the marlin firmware, edit with your settings as needed, enjoy! 
 
 
 I have a video describing setting up and calibrating your Kossel Mini or Kossel XL for the very first time!    
