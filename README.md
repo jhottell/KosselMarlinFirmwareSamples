@@ -1,5 +1,5 @@
 # KosselMarlinFirmwareSamples
-Sample configurations to get Marlin Firmware up and running fast on Kossel 3D printers using Ramps electronics. This will be close for ANY delta 3D printer!
+Sample configurations to get Marlin Firmware up and running fast on Kossel 3D printers using Ramps electronics. These instructions should get you started for ANY delta 3D printer!
 
 I have a video describing setting up and calibrating your Kossel Mini or Kossel XL for the very first time! 
 http://www.electronhacks.com/2016/12/diy-kossel-xl-reprap-3d-printer-build/
